@@ -1,5 +1,3 @@
-# Fingerprint Recognition and Minutiae data
-
 While working on question 1 of the second assignment for ELEC4630 i got to learn about many of the steps taken in the Jupyter notebook to provide a similarity
 percentage for fingerprints of randomly selected images. Sobel filters which were used in the first assignment for edge detection were used to calculate the local
 gradient of a finger print image for x and y.
