@@ -18,4 +18,5 @@ Before removal of false positions.
 After removal of false positions.
 ![Minutiae with no false positions](../images/Minutiae.png)
 
-The distance transform seems to be a powerful tool in image processing that provides the ability to exclude that minutiae that is too close to the border.
+The distance transform seems to be a powerful tool in image processing that provides the ability to exclude minutiae that is too close to the border resulting in an
+dataset more reliable for further processing or comparison.
