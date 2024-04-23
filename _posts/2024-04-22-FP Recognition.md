@@ -11,7 +11,7 @@ false positions would get removed and not included in the final data structure t
 before and after being removed.
 
 Before removal of false positions.
-![Minutiae with positions](../images/Minutiae0.png)
+![Minutiae with false positions](../images/Minutiae0.png)
 
 After removal of false positions.
 ![Minutiae with no false positions](../images/Minutiae.png)
