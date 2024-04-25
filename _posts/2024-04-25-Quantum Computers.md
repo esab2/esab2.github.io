@@ -1,4 +1,4 @@
-# Learning Quantum Computers and Experiment by Nobel Prize Laureates
+# Learning About Quantum Computers and Experiment by Nobel Prize Laureates
 
 ![1_I4eFFZbTdmNF0b16AbRtFA@2x](https://github.com/esab2/esab2.github.io/assets/99470860/98b51d02-9faa-4b79-ade9-038bcfcfb687)
 
