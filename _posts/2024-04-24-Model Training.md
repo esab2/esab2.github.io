@@ -1,4 +1,4 @@
-# Model Training for CIFAR-10
+# Model Training Using CIFAR-10
 
 In question 4 of the assignment i had a chance to learn about many concepts from researching the problem and watching the provided lecture
 about t-SNE, i gained insight about how these plots could be utilised to view the results of a trained model aganist large
